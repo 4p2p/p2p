@@ -1,0 +1,8 @@
+.LABs/
+.TMP/
+*#
+*.odt
+*.pdf
+*.ods
+*.tar*
+
