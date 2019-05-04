@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99791667"
-     inkscape:cx="-103.09831"
-     inkscape:cy="116.13068"
+     inkscape:cx="-275.95843"
+     inkscape:cy="112.12233"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,5 +116,25 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Code Bold';-inkscape-font-specification:'Code Bold, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          d="m -101.29199,195.62685 v 6.91445 h -1.00753 v -2.30153 h -1.52118 c -1.49154,0 -2.24225,-1.14581 -2.24225,-2.30152 0,-1.1557 0.75071,-2.3114 2.24225,-2.3114 z m -1.00753,3.62514 v -2.61761 h -1.52118 c -0.83961,0 -1.25448,0.65194 -1.25448,1.31375 0,0.65193 0.41487,1.30386 1.25448,1.30386 z" />
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path828"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Code Bold';-inkscape-font-specification:'Code Bold, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m -143.98979,165.73053 v 0.70132 h 3.44735 v 1.56069 h 0.98778 v -1.56069 h 0.56303 v -0.96802 h -0.56303 v -4.38574 h -0.77047 z m 1.30387,-0.24695 2.16323,-2.67687 v 2.67687 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path830"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Code Bold';-inkscape-font-specification:'Code Bold, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m -138.49481,161.07809 v 6.91445 h 1.00753 v -2.30152 h 1.52118 c 1.49155,0 2.24226,-1.14583 2.24226,-2.30153 0,-1.1557 -0.75071,-2.3114 -2.24226,-2.3114 z m 1.00753,3.62515 v -2.61761 h 1.52118 c 0.83961,0 1.25448,0.65193 1.25448,1.31374 0,0.65194 -0.41487,1.30387 -1.25448,1.30387 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path832"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Code Bold';-inkscape-font-specification:'Code Bold, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m -132.39682,163.35986 c 0.11853,-0.77047 0.56303,-1.32362 1.41252,-1.32362 1.61008,0 1.87678,1.63971 0.79022,2.42005 h 0.01 l -3.24979,2.76578 v 0.77047 h 4.84999 v -0.95815 h -3.17077 c 0.99766,-0.82973 1.25448,-1.00753 2.23238,-1.81751 1.8669,-1.30386 1.1557,-4.1783 -1.46191,-4.1783 -1.44216,0 -2.23238,1.00754 -2.41018,2.24226 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path834"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'Code Bold';-inkscape-font-specification:'Code Bold, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m -128.03826,161.07809 v 6.91445 h 1.00754 v -2.30152 h 1.52118 c 1.49154,0 2.24225,-1.14583 2.24225,-2.30153 0,-1.1557 -0.75071,-2.3114 -2.24225,-2.3114 z m 1.00754,3.62515 v -2.61761 h 1.52118 c 0.83961,0 1.25447,0.65193 1.25447,1.31374 0,0.65194 -0.41486,1.30387 -1.25447,1.30387 z" />
   </g>
 </svg>
